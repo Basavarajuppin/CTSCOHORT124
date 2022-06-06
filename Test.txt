@@ -1,0 +1,3 @@
+se1 login
+se2 search
+se3 logout
